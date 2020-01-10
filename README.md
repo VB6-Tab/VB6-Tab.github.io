@@ -1,1 +1,1 @@
-# VB6-Tab.githuh.io
+# VB6-Tab.github.io
